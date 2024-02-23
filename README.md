@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hmsirajul
+- 👋 Hi, I’m Md sirajul islam
 - 👀 I’m interested in ...learning new things
 - 🌱 I’m currently learning ...how to solve any problem easily and  efectively
 - 💞️ I’m looking to collaborate on ...
