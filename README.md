@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md sirajul islam</h1>
+<h1 align="center">Hi 👋, I'm Md Sirajul Islam</h1>
 <h3 align="center"> I am passionate about Software engineering and problem solving</h3>
 
 - 🔭 I’m currently working on **improving problem solving skills**
